@@ -14,6 +14,7 @@ This repository adopts a structured **Monorepo** concept to cleanly isolate the 
 The components within this repository are organized modularly as follows:
 
 * **`01_Waguri_Pomodoro_App/`**: A desktop Pomodoro Timer application built with a Tkinter GUI, featuring an automated user data-logging system.
-* **`02_Pomodoro_Data_Analyzer/`**: *(In Progress)* Data analytics scripts powered by Pandas, NumPy, and Matplotlib to process study history logs and visualize daily productivity trends.
+* **`02_Pomodoro_Data_Analyzer/`**: ** Data analytics scripts powered by Pandas, NumPy, and Matplotlib to process study history logs and visualize daily productivity trends.
 
+* **`=================== MY PROJECT ON TIMER HAS FINISHED! ===================`**
 ---
